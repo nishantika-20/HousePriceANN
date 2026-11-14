@@ -1,0 +1,12 @@
+{
+  "ann_mae": 72575.86498688998,
+  "ann_rmse": 97665.64634680303,
+  "ann_r2": -0.24356881554804222,
+  "baseline_mae": 59568.25,
+  "baseline_rmse": 88667.16750592619,
+  "baseline_r2": -0.024971608920279387,
+  "epochs_trained": 37,
+  "training_rows": 1168,
+  "test_rows": 292,
+  "encoded_features": 285
+}
